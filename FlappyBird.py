@@ -1,4 +1,3 @@
-#đây là bản chính thức
 import pygame,sys,random
 pygame.display.set_caption("FlappyBird")
 #tạo hàm cho trò chơi
